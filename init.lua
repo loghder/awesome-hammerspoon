@@ -36,17 +36,18 @@ hs.loadSpoon("ModalMgr")
 -- Define default Spoons which will be loaded later
 if not hspoon_list then
     hspoon_list = {
-        "AClock",
-        "BingDaily",
-        "CircleClock",
-        "ClipShow",
-        "CountDown",
-        "HCalendar",
-        "HSaria2",
+        -- "AClock",
+        -- "BingDaily",
+        -- "CircleClock",
+        -- "ClipShow",
+        -- "CountDown",
+        -- "HCalendar",
+        -- "HSaria2",
         "HSearch",
-        "SpeedMenu",
+        "IdolDaily",
+        -- "SpeedMenu",
         "WinWin",
-        "FnMate",
+        -- "FnMate",
     }
 end
 
